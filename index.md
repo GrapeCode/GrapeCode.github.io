@@ -1,8 +1,4 @@
 <center>
-<h1>Tayler Uva</h1>
-
-<h2>Alumni, Mentor, Student</h2>
-
 <h2><b>FRC Robotics</b> </h2>
 <h3><a href="http://frcteam3255.com/tayleruva">SuperNUDs Website</a></h3>
 Website Designed by Tayler Uva
