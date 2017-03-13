@@ -1,12 +1,12 @@
 <center>
-# Tayler Uva
+<h1>Tayler Uva</h1>
 
-## Alumni, Mentor, Student
+<h2>Alumni, Mentor, Student</h2>
 
-## **FRC Robotics**
-### [SuperNURDs Website](https://www.frcteam3255.com)
+<h2><b>FRC Robotics</b> </h2>
+<h3><a href="http://frcteam3255.com/tayleruva">SuperNUDs Website</a></h3>
 Website Designed by Tayler Uva
-### [SuperNURDs YouTube](http://www.youtube.com/FRC3255)
+<h3><a href="http://www.youtube.com/FRC3255">SuperNUDs YouTube</a></h3>
 Most videos filmed and by Tayler Uva
 
 <a href="http://frcteam3255.com/tayleruva">
