@@ -1,3 +1,7 @@
+---
+title: Tayler Uva
+---
+
 # Tayler Uva
 
 ## Alumni, Mentor, Student
