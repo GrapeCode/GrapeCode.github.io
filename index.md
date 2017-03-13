@@ -12,3 +12,4 @@ Most videos filmed and by Tayler Uva
 <a href="http://frcteam3255.com/tayleruva">
 <img src="profile.jpg" alt="Tayler Uva" style="width: 200px;"/>
 </a>
+</center>
