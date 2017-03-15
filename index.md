@@ -1,8 +1,7 @@
 <center>
 <h1>My Resume</h1>
-<h2><a href="/robotics">Robotics</a>
+<h2><a href="/robotics">Robotics</a></h2>
 <br>
-
-<img src="profile.jpg" alt="Tayler Uva" style="width: 200px;"/>
-</a>
+<h1>About Me</h1>
+<h1><img src="profile.jpg" alt="Tayler Uva" style="width: 300px;"/></h1>
 </center>
