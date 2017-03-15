@@ -1,3 +1,5 @@
+@font-face { font-family: play; src: url('Play-Regular.TTF'); }
+@font-face { font-family: jura; src: url('Jura-Regular.TTF'); }
 body{
 		font-family: play;
 		color: #fff;
