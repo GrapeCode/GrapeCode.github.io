@@ -1,5 +1,5 @@
 <div style="text-align:center">
-# FRC Robotics SN
+# FRC Robotics
 
 <h2><b>FRC Robotics</b> </h2>
 <p></p>
