@@ -1,7 +1,7 @@
-@font-face { font-family: 'play'; src: url('Play-Regular.ttf'); }
-@font-face { font-family: 'jura'; src: url('Jura-Regular.ttf'); }
+@font-face { font-family: play; src: url('Play-Regular.ttf'); }
+@font-face { font-family: jura; src: url('Jura-Regular.ttf'); }
 body{
-		font-family: 'play';
+		font-family: play;
 		color: #fff;
 		border: 5px solid #eaba2c;
 		padding: 10px;
