@@ -9,24 +9,24 @@ body{
 		border-radius: 10px;
 		background-color: #1264af
 	}
-	a{
+a{
 		color: #fae845;
 	}
-	p.imgBg{
+p.imgBg{
 		border: 5px solid #eaba2c;
 		padding: 10px;
 		margin: 10px;
 		border-radius: 10px;
 		background-color: #1264af
 	}
-	div.border{
+div.border{
 		border: 5px solid #eaba2c;
 		padding: 10px;
 		margin: 10px;
 		border-radius: 10px;
 		background-color: #1264af
 	}
-	div.subborder{
+div.subborder{
 			border: 5px solid #eaba2c;
 			width: 500px;
 			border-radius: 10px;
