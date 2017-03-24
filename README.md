@@ -8,3 +8,8 @@ Previously I have used drag and drop websites like WIX.com
 Example Website I Designed:
 
 [www.SuperNURDs.com](https://www.frcteam3255.com "SuperNURDs's Homepage")
+
+### TO DO
+- Add photo gallery
+- Add graphic gallery
+- Add video gallery
