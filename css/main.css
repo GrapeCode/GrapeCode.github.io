@@ -1,0 +1,61 @@
+@font-face { font-family: play; src: url('../fonts/Play-Regular.ttf'); }
+@font-face { font-family: jura; src: url('../fonts/Jura-Regular.ttf'); }
+@font-face { font-family: circuit; src: url('../fonts/CIRCUIT.ttf'); }
+@font-face { font-family: gunship-con; src: url('../fonts/gunship-condensed.ttf'); }
+@font-face { font-family: gunship-reg; src: url('../fonts/gunship-Reg.ttf'); }
+@font-face { font-family: gunship; src: url('../fonts/gunship-condensed-italic.ttf'); font-style: italic;}
+
+header{
+	font-family: gunship-con;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color:#eaba2c;
+	color: #1264af;
+}
+
+footer{
+	font-family: gunship-con;
+	text-align: center;
+	border-radius: 10px;
+	background-color:#eaba2c;
+	color: #1264af;
+}
+
+body{
+	font-family: play;
+	color: #fff;
+	border: 5px solid #eaba2c;
+	padding: 10px;
+	margin: 30px;
+	border-radius: 10px;
+	background-color: #1264af
+}
+
+a{
+	color: inherit;
+}
+
+p.imgBg{
+	border: 5px solid #eaba2c;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: #1264af
+}
+
+div.border{
+	border: 5px solid #eaba2c;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: #1264af
+}
+
+div.subborder{
+	border: 5px solid #eaba2c;
+	width: 500px;
+	border-radius: 10px;
+	background-color: #1264af
+}
+
