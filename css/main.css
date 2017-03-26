@@ -5,10 +5,18 @@
 @font-face { font-family: gunship-reg; src: url('../fonts/gunship-Reg.ttf'); }
 @font-face { font-family: gunship; src: url('../fonts/gunship-condensed-italic.ttf'); font-style: italic;}
 
+html{
+	width: device-width;
+	max-width: 90%;
+	margin: auto;
+	background-image: url('../resources/circuitBG.png');
+}
+
 header{
 	font-family: gunship-con;
+	max-width: 91%;
+	margin: 20px auto 10px auto;
 	padding: 10px;
-	margin: 10px;
 	border-radius: 10px;
 	background-color:#eaba2c;
 	color: #1264af;
@@ -17,6 +25,7 @@ header{
 footer{
 	font-family: gunship-con;
 	text-align: center;
+	margin: auto;
 	border-radius: 10px;
 	background-color:#eaba2c;
 	color: #1264af;
@@ -24,12 +33,12 @@ footer{
 
 body{
 	font-family: play;
-	color: #fff;
+	color: white;
 	border: 5px solid #eaba2c;
 	padding: 10px;
-	margin: 30px;
+	margin: 10px;
 	border-radius: 10px;
-	background-color: #1264af
+	background-color: rgba(18, 100, 175, .9);
 }
 
 a{
@@ -41,21 +50,19 @@ p.imgBg{
 	padding: 10px;
 	margin: 10px;
 	border-radius: 10px;
-	background-color: #1264af
 }
 
 div.border{
 	border: 5px solid #eaba2c;
 	padding: 10px;
-	margin: 10px;
+	max-width: 90%;
+	margin: 20px auto 10px auto;
 	border-radius: 10px;
-	background-color: #1264af
 }
 
 div.subborder{
 	border: 5px solid #eaba2c;
 	width: 500px;
 	border-radius: 10px;
-	background-color: #1264af
 }
 
