@@ -35,6 +35,9 @@ footer{
 
 body{
 	font-family: play;
+	max-width: 100%;
+	width: inherit;
+	font-size: 1em;
 	color: white;
 	border: 5px solid #eaba2c;
 	padding: 10px;
@@ -43,28 +46,27 @@ body{
 	background-color: rgba(18, 100, 175, .9);
 }
 
+img{
+	max-width: 100%;
+}
+
 a{
 	color: inherit;
 }
 
-p.imgBg{
-	border: 5px solid #eaba2c;
-	padding: 10px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
 div.border{
 	border: 5px solid #eaba2c;
-	padding: 10px;
+	padding: 1%;
 	max-width: 90%;
 	margin: 20px auto 10px auto;
+	background-color: rgba(18, 100, 175, 1);
 	border-radius: 10px;
 }
 
 div.subborder{
 	border: 5px solid #eaba2c;
-	width: 500px;
+	background-color: rgba(18, 100, 175, 1);
+	max-width: 500px;
 	border-radius: 10px;
 }
 
