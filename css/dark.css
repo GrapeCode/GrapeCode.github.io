@@ -13,14 +13,21 @@ html{
 }
 
 header{
-	font-family: gunship-con;
-	max-width: 91%;
-	margin: 20px auto 10px auto;
-	padding: 10px;
-	border-radius: 10px;
-	background-color:#990D11;
-	color: black;
-}
+	text-align: center;
+	font-family: gunship;
+	font-style: italic;
+}	
+	header.back{
+		text-align: left;
+		font-family: gunship-con;
+		font-style: normal;
+		max-width: 91%;
+		margin: 20px auto 10px auto;
+		padding: 10px;
+		border-radius: 10px;
+		background-color:#990D11;
+		color: black;
+	}
 
 footer{
 	font-family: gunship-con;
@@ -33,7 +40,6 @@ footer{
 
 img{
 	max-width: 100%;
-	padding: 2%;
 }
 
 body{
