@@ -14,6 +14,11 @@ html{
 	background-image: url('../resources/circuitBG.png');
 }
 
+nav{
+	font-family: gunship-con;
+	text-align: center;
+}
+
 header{
 	font-family: gunship-con;
 	max-width: 91%;
@@ -70,31 +75,37 @@ div.subborder{
 	border-radius: 10px;
 }
 
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333;
+li.reg {
+	float: none;
 }
 
-li.nav {
+ul {
+	list-style-type: none;
+	margin: 10px auto auto auto;
+	padding: 0;
+	max-width: 93%;
+	overflow: hidden;
+	background-color: #eaba2c;
+	border-radius: 10px;
+}
+
+li {
 	float: left;
 }
 
 li a {
 	display: block;
-	color: white;
+	color: #1264af;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
 
 li a:hover:not(.active) {
-	background-color: #111;
+	color: #1264af;
+	background-color: white;
 }
 
 .active {
-	background-color: #4CAF50;
+	background-color: white;
 }
-
