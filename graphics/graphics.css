@@ -19,7 +19,7 @@ header{
 	padding: 10px;
 	border-radius: 10px;
 	background-color:#990D11;
-	color: #eaba2c;
+	color: black;
 }
 
 footer{
@@ -28,7 +28,12 @@ footer{
 	margin: auto;
 	border-radius: 10px;
 	background-color:#990D11;
-	color: #eaba2c;
+	color: black;
+}
+
+img{
+	max-width: 100%;
+	padding: 2%;
 }
 
 body{
