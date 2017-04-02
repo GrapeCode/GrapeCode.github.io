@@ -10,8 +10,8 @@ Example Website I Designed:
 [www.SuperNURDs.com](https://www.frcteam3255.com "SuperNURDs's Homepage")
 
 ### TO DO
-- Add graphic gallery
 - Add video gallery
 
 #### Completed
 - Added photo gallery
+- Add graphic gallery
