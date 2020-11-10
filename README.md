@@ -11,6 +11,7 @@ Example Website I Designed:
 
 ### TO DO
 - Add video gallery
+- Work more with CSS
 
 #### Completed
 - Added photo gallery
